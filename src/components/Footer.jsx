@@ -42,8 +42,7 @@ const Footer = () => {
                 <div className="py-[10px] px-[10px] bg-[red] rounded-full w-[7%] hover:bg-white">
                     <a className='' href="#"><FaInstagramSquare /></a>
                 </div>
-                </div>
-                      
+                </div>     
             </div>
             <div className=" w-[17%]">
                 <div className="">
